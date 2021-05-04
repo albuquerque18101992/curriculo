@@ -60,13 +60,13 @@ body {
 }
 
 .left_Side .toggle:before {
-    content: '\f0f4';
+    content: '\f087';
     font-family: fontAwesome;
     color: #003147;
 }
 
 .left_Side.dark .toggle:before{
-    content: '\f000';    
+    content: '\f164';    
 }
 
 
