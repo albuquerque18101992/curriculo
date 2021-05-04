@@ -175,6 +175,17 @@ body {
     font-weight: 300;
 }
 
+.contactInfo_education ul li span a {
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 900;
+    color: #fff;
+}
+
+.contactInfo_education ul li span a:hover {
+    color: #03a9f4;
+}
+
 .contactInfo_language .percent {
     position: relative;
     width: 100%;
